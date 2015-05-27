@@ -16,6 +16,12 @@ define("R Singo u11059584");
 echo constant("R Singo u11059584");
 <div>
 
+<div style = “color:blue”>
+<div style = “font:Calibri”>
+define("MMC Moraba u29635030");
+echo constant("MMC Moraba u29635030");
+<div>
+
 
 
 ?>
